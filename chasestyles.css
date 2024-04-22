@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(198, 219, 254);
+}
+
+.box1 {
+	position: absolute;
+	top: 50px;
+	right: 250px;
+	width: 200px;
+	height: 200px;
+	background-color: #000000;
+	color: rgb(255, 255, 255);
+	font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    border: 5px rgb(22, 146, 255);
+}
+
+.box2 {
+	position: absolute;
+	top: 500px;
+	right: 300px;
+	width: 200px;
+	height: 120px;
+	background-color: #ffffff;
+    border: 10px black;
+	color: rgb(6, 10, 6);
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+
+.box3 {
+	position: absolute;
+	top: 300px;
+	left: 950px;
+	width: 200px;
+	height: 100px;
+	background-color: #eeeeee;
+	color: rgb(20, 11, 11);
+	font-family: Georgia, serif;
+    font-weight: lighter;
+}
